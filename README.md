@@ -6,7 +6,7 @@ This is a simple Spring Framework project demonstrating how to implement Depende
 
 - Java
 - Spring Framework (Core)
-- Spring Tool Suite (STS) or IntelliJ IDEA
+- Spring Tool Suite (STS)
 
 ## 📂 Project Structure
 
