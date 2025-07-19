@@ -39,7 +39,9 @@ com.example.studentproject
 ## ✅ Expected Output
 
 When you run the application, it should output a message that confirms the constructor injection was successful, like:
-
+I am your Principal.
+MathTeacher is teaching mathematics...
+Welcome to the College!
 
 ## 📄 License
 
